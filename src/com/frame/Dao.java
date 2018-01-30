@@ -16,7 +16,7 @@ public abstract class Dao<O,I> {
 				e.printStackTrace();
 			}
 		}
-	}
+	}//ddddd
     public void close(ResultSet rset) {
 		if(rset!= null) {
 			try {
