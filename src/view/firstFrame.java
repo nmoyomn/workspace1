@@ -11,7 +11,7 @@ public class firstFrame {
 	Button button, b1;
 	Label label;
 	TextField tf1;
-
+//dddd
 	public firstFrame() {
 		frame = new Frame();
 		panel = new Panel();
