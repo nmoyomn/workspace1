@@ -15,7 +15,7 @@ public abstract class Biz<O,I> {
 			System.out.println("Oracle Driver Not Found...");
 		}
 	}
-	
+	//d
 	public Connection getConnection() {
 		// Connection은 멤버변수로 할수 없다.
 		// Connection을 멤버변수로 할경우 여러개의 Connection이 작업을 할수 있는 상황이 되어
